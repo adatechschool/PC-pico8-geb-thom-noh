@@ -11,11 +11,15 @@ assignees: ''
 
 ## Name
 
-###
+## Summary
 
 ## Type
 
-###
+- [ ] Camera
+- [ ] Physics
+- [ ] Character
+- [ ] Controller
+- [ ] Other
 
 ## Description
 
