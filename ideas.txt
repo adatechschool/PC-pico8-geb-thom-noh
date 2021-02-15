@@ -1,2 +1,6 @@
 doodle jump
 simili menu wii
+un jeu meta
+platformer type mario
+jeu de course de voiture
+jeu de speedrunning
