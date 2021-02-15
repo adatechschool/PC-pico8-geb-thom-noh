@@ -1,3 +1,12 @@
+---
+name: Code
+about: About the code
+title: "[Code]"
+labels: fonctionnalité
+assignees: ''
+
+---
+
 # Code
 
 
