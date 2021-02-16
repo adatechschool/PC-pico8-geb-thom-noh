@@ -15,3 +15,20 @@ Commencer a programmer le jeu en lui meme
 ### Blocages
 
 Aucun, pour le moment
+
+## Jour 2
+
+### Fait aujourd'hui
+
+Prise de connaissance plus approfondie de l'environnement de developpement
+Echanges et explications de code
+
+### Plans pour demain
+
+Avancer sur le code Ada.p8 (thomas)
+Mise en pratique des tutos (Gebril)
+                           (Noah)
+### Blocages
+
+Aucun, pour le moment
+
